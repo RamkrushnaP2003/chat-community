@@ -1,0 +1,47 @@
+body {
+    margin-left: 20px;
+    background-color: gainsboro;
+}
+
+.chat {
+    font-weight: 450;
+    background-color: aliceblue;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin: 1em;
+    display: inline-block;
+}
+.chat:hover {
+    box-shadow: 2px 2px 5px rgb(56, 31, 56);
+}
+
+span {
+    font-weight: bold;
+    font-weight: bolder;
+}
+
+.msg {
+    background-color: rgb(203, 192, 192);
+    color: black;
+    font-weight: 400;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    border: 1.5px solid rgb(78, 34, 78)
+}
+
+button {
+    background-color: rgba(150, 116, 116, 0.75);
+    border: 2px solid black;
+    border-radius: 1rem;
+    padding: 0.5em 1rem;
+    font-weight: bold;
+}
+
+.add{
+    margin: 20px;
+}
+
+.btn_i {
+    border: 1.75px solid rgb(59, 27, 59);
+    cursor: pointer;
+}
